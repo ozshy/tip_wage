@@ -1,9 +1,10 @@
 # tip_wage
 
 Notes for using the R-code and the data to reproduce a paper entitled:
-"Minimum Wage for Tipped Employees: Data, Theory, and Calibrations, "by Oz Shy
 
-Available at: 
+"Tips Versus Higher Wages: Data, Theory, and Simulations." by Oz Shy
+
+Available at: https://ssrn.com/abstract=3127117 
 
 1) Place the R-code and the data file tip-wage-data-190119.csv on the same directory as the R-code.
 2) In the R-code, change directory to where your put the data file and this R-cocde. If you are using R Studio, go to Session: Set Working Directory: To Source File Location.
